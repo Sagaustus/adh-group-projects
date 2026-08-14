@@ -16,6 +16,7 @@ step and no account needed.
 |---|---|---|---|
 | 1 | African films on Wikidata | *A Title, a Country, an Identifier: thin records and the labour geography of African cinema on Wikidata* | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sagaustus/adh-group-projects/blob/main/group-01-african-films/analysis.ipynb) |
 | 2 | African languages (Glottolog) | *No Code, No Corpus: ISO 639-3 as a precondition for computational existence* | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sagaustus/adh-group-projects/blob/main/group-02-african-languages/analysis.ipynb) |
+| 3 | African artworks in museums | *Complete About Possession, Silent About Transfer: provenance as structural absence in museum linked data* | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sagaustus/adh-group-projects/blob/main/group-03-african-artworks/analysis.ipynb) |
 
 ## Writing the chapter, and dividing the work
 
