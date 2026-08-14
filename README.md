@@ -16,6 +16,24 @@ step and no account needed.
 |---|---|---|---|
 | 1 | African films on Wikidata | *A Title, a Country, an Identifier: thin records and the labour geography of African cinema on Wikidata* | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sagaustus/adh-group-projects/blob/main/group-01-african-films/analysis.ipynb) |
 
+## Writing the chapter, and dividing the work
+
+Two sections at the end of each notebook exist because the analysis is the easy half:
+
+**The chapter template (Step 9).** The full structure of a DH chapter — introduction,
+the standard and its critics, data, method, findings, discussion, limitations,
+conclusion — with sentence frames to complete and a note under each section saying
+which notebook step feeds it. A cell then prints draft sentences with *your* computed
+numbers already in place, so you can see which figure belongs in which section. Rewrite
+them in your own voice; they are placement practice, not prose.
+
+**Division of labour (Step 10).** Seven roles mapped to chapter sections and to the
+expertise each draws on, a dependency diagram showing what has to happen before what,
+and a CRediT contribution statement to fill in. Note that **Coder A and Coder B must
+work independently** — that is a requirement of the method, not a staffing convenience.
+Without two independent coders there is no agreement figure, and the qualitative
+section has no evidential standing.
+
 ## What each notebook contains
 
 The seven steps of the assignment, plus the two things that turn a report into a chapter:
